@@ -1,0 +1,12 @@
+# Configuración VS Code / artefactos C++
+.vscode/
+# Ejecutables y objetos compilados
+*.exe
+*.out
+*.o
+*.obj
+# Archivos temporales del sistema
+Thumbs.db
+Desktop.ini
+# Logs
+*.log
